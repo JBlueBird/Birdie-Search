@@ -1,3 +1,4 @@
+![The JBlueBird Logo](jbluebird_logo.png)
 # Birdie Search 🐦
 
 **Birdie Search** is a simple macOS desktop search app inspired by Apple's classic Sherlock.  
